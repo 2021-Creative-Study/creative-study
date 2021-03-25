@@ -1,5 +1,7 @@
 # 2021-창의학기제
 
+K-Fashion AI 경진대회 [Go to DACON](https://dacon.io/competitions/official/235672/overview/description/)
+
 ## 📌참여인원
 - 스마트기기공학전공 18011793 이정민
 - 스마트기기공학전공 18011817 홍주영
